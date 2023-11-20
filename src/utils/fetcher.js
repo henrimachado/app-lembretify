@@ -1,4 +1,4 @@
-const BASE_URL = env.BASE_URL;
+const BASE_URL = "https://lembretify-api.onrender.com";
 
 //Objeto fetcher
 export const fetcher = {
